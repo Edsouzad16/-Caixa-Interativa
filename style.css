@@ -1,0 +1,11 @@
+#caixa {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  margin-bottom: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s;
+}
